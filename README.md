@@ -19,7 +19,6 @@
 | **Uso de Inteligencia Artificial:** | ☐ No X Sí (describir a continuación) |
 
 **Si usas IA, explica brevemente cómo y en qué etapa contribuye:**  
-> _Ejemplo: uso ChatGPT para generar plantillas de clases, pero comprendí y adapté el código._
 
 Lo utilice para explicacion e implementacion de algunos conceptos que son unicos de mi Framework.
 
@@ -28,11 +27,9 @@ Lo utilice para explicacion e implementacion de algunos conceptos que son unicos
 ### Resumen breve
 Describe tu proyecto en máximo **8 líneas**: qué hace, a quién está dirigido, y qué problema busca resolver.
 
-> _Ejemplo:_  
-> “FleetTrackerPro es una aplicación de escritorio que permite rastrear la ubicación de vehículos de una empresa de transporte universitario en tiempo real, simulando posiciones.”
 Mi gestor de inventario es un sistema de inventario a una tienda de hilos que permite ver insertar y borrar categorias, productos, proveedores, almacenes y usuarios, con un sistema MVC 
 y consultando a una base de datos echa a mano para poder ver los datos.
-> 
+
 
 ### Objetivos principales
 1.  Automatizar registros de existencias de productos. 
